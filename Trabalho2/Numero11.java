@@ -1,7 +1,6 @@
 /*Programa Numero8.java
  Programa referente ao Numero 8 da Segunda Lista de Exercicios
  Autora Heide Camila Alves dos Reis
- 4º Periodo de Engenharia da Computacao
  Disciplina de Programacao Orientada a Objetos 
  Professor Andre Rabelo*/
 
